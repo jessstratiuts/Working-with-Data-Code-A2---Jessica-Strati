@@ -3,8 +3,13 @@
 This is my A2 project named 'She codes the Score' which is a musical composition made on the platform Earsketch! This is a tribute to influential female voices throughout history, and includes samples from Alicia Keys, Ciara and Aretha Franklin. 
 
 In order to play the Song, click the link below which will take you to Earsketch. 
+
 https://earsketch.gatech.edu/earsketch2/?sharing=gD7d0mpyV-_69w-8zBsdpg 
 
 Once the link has taken you to the project page, click the green button that says RUN -> to make sure that the song starts from the beginning. 
-Once the song is at the start, press the play button at the top of the digital audio workstation & it should play! 
+Once the song is at the start, press the play button at the top of the digital audio workstation & begin listening ! 
+
+All the coding for the song is located under the code editor and has any comments/ explanations in brown writing with a hashtag (#) before. 
+
+Enjoy!
 
