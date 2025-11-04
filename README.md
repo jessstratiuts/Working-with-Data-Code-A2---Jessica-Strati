@@ -1,6 +1,6 @@
 # Working-with-Data-Code-A2---Jessica-Strati
 
-This is my A2 project named 'She codes the Score' which is a musical composition made on the platform Earsketch! This is a tribute to influential female voices throughout history, and includes samples from Alicia Keys, Ciara and Aretha Franklin. 
+This is my A2 project named 'She codes She Scores' which is a musical composition made on the platform Earsketch! This is a tribute to influential female voices throughout history, and includes samples from Alicia Keys, Ciara and Aretha Franklin. 
 
 In order to play the Song, click the link below which will take you to Earsketch. 
 
